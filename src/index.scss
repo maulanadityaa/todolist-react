@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Signika:wght@300..700&display=swap");
+
+// $light: #eef9ff;
+// $dark: #0c0c04;
+// $primary: #068191;
+// $secondary: #0d445b;
+// $info: #23abb9;
+// $success: #04c066;
+// $warning: #efd103;
+// $danger: #ff1521;
+
+$light: #fefded;
+$dark: #0c0c04;
+$primary: #6dc5d1;
+$secondary: #fde49e;
+$info: #feb941;
+$success: #5f8670;
+$warning: #dd761c;
+$danger: #b80000;
+
+* {
+  font-family: "Signika", sans-serif;
+}
+
+@import "node_modules/bootstrap/scss/bootstrap";
